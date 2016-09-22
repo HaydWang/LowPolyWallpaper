@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/internal_impl-24.2.1_84dbb9dc15404ef11bbec93f48054a6b48d12fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/internal_impl-24.2.1_972ff3fd077faaa717674c9e813228140816f345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_a99c94d211ad7fd42025e0912ef1b13b2d505f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_a1ed7ed3db61c51d96ac6c9fd6aaa82fdf0dc978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_3cac5aeefc2279c234830347678f526b9eebb3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_c7e8902843579dfb5f39cc837b94df47b1fd0a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/internal_impl-24.2.1_fc1bffc045ba97f1c6f23170d0b89e2766cb1629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/internal_impl-24.2.1_f11bb27720771c2d7f31042d608ac72f030a3532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_7a9729179633ff70b2412ce3e38efdc367405d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.getbase-floatingactionbutton-1.10.1_1d156d52af4fd6b953220257dc1255bb1ad58ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_b45d1695f5fa83361a8436274ecdec686b254480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_7ac45d03db7c7f8463a343ce8b25bc1973cdf327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_1d0232f5e534d7c527eba3f3399e4ec47b3415ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.4.0_e0333fcb5639c422134be9fe09a585f5bfd76e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_8d59bb975c1a281e1bc4ec417a06a078b969b0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_dc6e098e655252fad758e3c121386a1100bab7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_da82b7453bec73d7d51bc9d70924b9a458033a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/support-annotations-24.2.1_87f9ec0549800821242736224627ac1b7a510c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_5a52756e5f0d32aee7e53be1da225c2b5d783a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.4.0_dfb83af428b856dde1459e4475c5ac190d48b533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/internal_impl-24.2.1_acc09aeb41236355fc45512f51518128f9e4a0d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/exploded-aar/LowPolyWallpaper/lowpoly/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9b9d477e47afc3238f02b0063484cca1594fb99b">
+        <dex dex="/Users/a22460/AndroidStudioProjects/LowPolyWallpaper/lowpolywallpaper/build/intermediates/pre-dexed/release/LowPolyWallpaper-lowpoly-unspecified_b63ddfc2e3d2dde5159bb3fc27885e4895276bac.jar" />
+    </item>
+
+</items>

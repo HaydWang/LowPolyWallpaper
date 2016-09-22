@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LowPoly Wallpaper</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="email" translatable="false">droidrise@gmail.com</string>
+    <string name="wallpaper_applied">Applied as new wallpaper</string>
+    <string name="wallpaper_applied_failed">Failed to set wallpaper</string>
+    <string name="wallpaper_reload">Reloaded currently wallpaper</string>
+    <string name="about_intro">「LowPoly Wallpaper」turn wallpaper to low poly style</string>
+    <string name="recall">Recall</string>
+    <string name="recalled">Recalled to orignial wallpaper</string>
+    <string name="share">Share to</string>
+    <string name="poly_strength">Strength</string>
+</resources>

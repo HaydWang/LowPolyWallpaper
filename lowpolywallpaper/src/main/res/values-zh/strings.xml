@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">低清壁纸</string>
+    <string name="action_settings">设置</string>
+    <string name="wallpaper_applied">已设置为壁纸</string>
+    <string name="about_intro">「低清壁纸」为你喜欢的桌面壁纸添上低平面风格</string>
+    <string name="action_about">关于</string>
+    <string name="recall">撤销</string>
+    <string name="recalled">已恢复为原有壁纸</string>
+    <string name="wallpaper_applied_failed">设置壁纸失败</string>
+    <string name="wallpaper_reload">已加载当前壁纸</string>
+    <string name="poly_strength">设置强度</string>
+    <string name="share">共享</string>
+</resources>
